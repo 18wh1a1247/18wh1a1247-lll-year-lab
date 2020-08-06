@@ -1,14 +1,11 @@
+# experiment1
+## AIM:
 
-AIM:
+## PROCEDURE:
 1
 2
 3
 
-PROCEDURE:
-1
-2
-3
-
-output:
+### output:
 
 ![output](code.jpg)
