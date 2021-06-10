@@ -1,0 +1,13 @@
+<?php
+
+
+
+$a = "varsha";
+
+
+echo strlen($a);
+
+
+?>
+
+output:6
