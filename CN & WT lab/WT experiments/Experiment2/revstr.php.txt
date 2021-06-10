@@ -1,0 +1,10 @@
+<?php
+
+$a ="varsha";
+
+echo strrev($a);
+
+?>
+
+output:
+The reverse string of varsha is ahsrav
