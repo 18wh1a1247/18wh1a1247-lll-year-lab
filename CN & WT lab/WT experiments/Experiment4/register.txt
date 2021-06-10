@@ -1,0 +1,123 @@
+<html>
+
+	<head>
+		<title>REGISTRATION</title>
+<link rel="stylesheet" type="text/css" href="Reg.css">
+
+	</head>
+
+
+	<body   >
+
+
+		<table border="0.5" align="left" width="400" bgcolor="#FFFFFF" >
+			
+			<caption> REGISTERATION FORM</caption>
+
+			<tr>
+
+				<th>Enter First Name</th>
+
+				<td><input type="text" name="firstname" maxlength="5" title="enter your first name" ></td>
+
+			</tr>
+
+			<tr>
+
+				<th>Enter Last Name</th>
+
+				<td><input type="text"></td>
+
+			</tr>
+
+			<tr>
+
+				<th>Enter Password</th>
+
+				<td><input type="password"></td>
+
+			</tr>
+
+			<tr>
+
+				<th>Re Enter Password</th>
+
+				<td><input type="password"></td>
+
+			</tr>
+
+			<tr>
+
+				<th>Enter Your Email</th>
+
+				<td><input type="email"></td>
+
+			</tr>
+
+			<tr>
+
+				<th>Enter Phone Number</th>
+
+				<td><input type="number"/></td>
+
+			</tr>
+
+			<tr>
+
+				<th>Enter your Address</th>
+
+				<td>
+
+					<textarea rows="2" cols="15"></textarea></td>
+
+			</tr>
+
+			<tr>
+
+				<th>Select Gender</th>
+
+				<td>
+
+					male<input type="radio" name="male" value="m"/>
+
+					female<input type="radio" name="female" value="f"/>
+
+				</td>
+
+			</tr>
+
+
+			<tr>
+
+				<th>Select Your Date Of Birth</th>
+
+				<td><input type="date"></td>
+
+			</tr>
+
+
+			<tr>
+
+				<th>Upload your pic</th>
+
+				<td><input type="file"></td>
+
+			</tr>
+
+			<tr>
+
+				<td align="center">
+
+					<button type="button">REGISTER</button>
+
+				</td>
+
+			</tr>
+
+		</table>
+
+		</form>
+
+	</body>
+
+</html>
